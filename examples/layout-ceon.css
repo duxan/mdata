@@ -1,0 +1,104 @@
+body,html{background-color:#F0F0F0;padding-bottom:40px;padding-top:20px;text-rendering:optimizelegibility}
+#wrapper{-webkit-box-shadow:0 0 10px #D3D3D3;background-color:#FCFDFE;box-shadow:0 0 10px #D3D3D3;margin:auto;width:800px}
+#article-wrap{box-sizing:border-box;color:#777;font-family:Verdana,Arial,Helvetica,sans-serif;margin:0 50px;padding-bottom:50px;padding-top:30px;width:700px}
+figure{color:blue;margin-top:35px;width:83%}
+img{background-color:#FFF;display:block;margin:auto;max-width:200px}
+figcaption{color:#777;font:13px Verdana,Arial,Helvetica,sans-serif;margin:20px 20px 20px 0}
+#fig{background-color:#F0F0F0;color:#46473D;font:14px/1.3 Verdana,Arial,Helvetica,sans-serif;min-width:600px}
+.fig{background-color:#F0F0F0;border:none!important;border-collapse:separate;margin:30px 0;min-width:600px;width:90%}
+table.fig img{-webkit-transition:opacity .2s ease-in;margin:20px 20px -6px;max-width:300px;opacity:0.7;transition:opacity .2s ease-in}
+table.fig td,table.fig tr{border:none!important}
+td.fig{padding-bottom:10px}
+td:hover img{opacity:1}
+#dwnld:hover{color:#787968!important}
+table{border-collapse:collapse;font-family:"Gill Sans", "Gill Sans MT", Calibri, sans-serif;margin:auto;width:90%}
+caption{color:#777;font-size:16px;padding:20px}
+thead th{color:#595A4E;font-size:14px;font-weight:700;padding:10px 5px}
+td{color:#787968;font:14px/1 "Gill Sans", "Gill Sans MT", Calibri, sans-serif;padding:6px 5px}
+tbody{border-bottom:2px solid #8D8F7E}
+tfoot td{padding:12px 5px}
+.table-wrap{margin:15px 0 20px}
+tr.bor-bot{border-bottom:1px solid #CDCEC8}
+.head2{border-top:2px solid #8D8F7E}
+.head2 td{padding:10px 5px}
+.justify{text-align:justify}
+.smaller,.bigger,.normalish,.collapser{cursor:pointer}
+.collapser{color:#c9cac2;font:20px arial}
+.normal{font-size:16px!important}
+.small{font-size:13px!important}
+.big{font-size:20px!important}
+.nav-menu{-webkit-box-shadow:0 0 10px #D3D3D3;background-color:#FCFDFE;box-shadow:0 0 10px #D3D3D3;left:100px;min-height:300px;overflow:auto;padding:3px 15px 15px;position:fixed;width:200px;z-index:999}
+.nav-menu hr{margin:10px;width:90%}
+.nav-menu h2,.nav-menu h3,.nav-menu h4,.nav-menu h5,.nav-menu h6,.nav-p{color:#FF9302;font:normal 11px/1.1 Arial, sans-serif;margin:5px 0 5px 15px}
+.nav-menu h3{margin-left:25px}
+.nav-menu h4{margin-left:35px}
+.nav-menu h5{margin-left:55px}
+.nav-menu h1{font:bold 11px/1.1 Arial, sans-serif;line-height:1.25;margin:10px}
+.note-sup{bottom:.6em;font-size:.5em;position:relative}
+.button{float:left}
+.nav-menu a:link{color:#FF9302!important;text-decoration:none}
+.nav-menu-title a:link{color:#A35200!important;text-decoration:none}
+.nav-menu a:visited{text-decoration:none}
+.nav-menu > a{display:block}
+img.nav-menu-item{display:inline;margin:5px 0 5px 45px;max-width:85px}
+img.nav-tbl{display:inline;font:bold .625em/1.1 Arial, sans-serif;margin:5px 0 5px 45px}
+.nav-img{left:8px;position:relative;top:-13px}
+span.nav-tbl,span.nav-img{font:bold .625em/1.1 Arial, sans-serif;left:8px;position:relative;top:-13px}
+h1{font:bold 220%/1.1 Calibri,Arial,sans-serif}
+h2{font:bold 160%/1.1 Calibri,Arial,sans-serif;margin:30px 0 20px}
+h3{font:bold 120%/1.1 Calibri,Arial,sans-serif;margin:25px 0 0}
+h4{font:bold 100%/1.1 Calibri,Arial,sans-serif;margin:20px 0 0}
+h2.refs{font:bold 160%/1.1 Calibri,Arial,sans-serif;margin-bottom:20px;margin-top:0}
+.author-list{font:normal 1em Arial, sans-serif;margin:50px 0 15px}
+.affiliations{font:italic .8125em Arial, sans-serif;letter-spacing:.0025em;line-height:1.25;margin:6px 0}
+.list-of-affiliations{margin-top:28px}
+p.affiliations img{display:inline;position:relative;top:2px}
+/*p.affiliations:first-letter{margin-left:-11px}*/
+/*p.affiliations{padding-left:11px}*/
+#abstract-label{color:#FF9302;font-weight:700}
+#abstract-content{font-style:italic}
+.sup a{color:#000;text-decoration:none}
+#abstract{font:.8125em Verdana,Arial,Helvetica,sans-serif;margin:50px 35px}
+.corresp{font:italic .625em/1.25 Arial, sans-serif;letter-spacing:.0025em;margin:25px 0}
+.corresp-info{margin-top:3px}
+.name{font-size:.8em;font-style:normal}
+.kwds{color:#FF9302;font:bold 1em Verdana,Arial,Helvetica,sans-serif}
+#kwds{font:.8em Verdana,Arial,Helvetica,sans-serif;margin:40px 0 -10px}
+.keywords{display:block;margin-left:35px}
+hr{background-color:#F4F4F4;border-width:0;height:2px;margin:30px 0 40px;text-align:center;width:100%}
+.sup{bottom:.6em;font-size:.75em;position:relative}
+.sub{bottom:-.3em;font-size:.75em;position:relative}
+.para{font-size:13px}
+.ref1,.ref2,.ref3{font:.7em Verdana,Arial,Helvetica,sans-serif}
+p.ref1:first-letter{margin-left:-17px}
+p.ref1{padding-left:17px}
+p.ref2:first-letter{margin-left:-25px}
+p.ref2{padding-left:25px}
+p.ref3:first-letter{margin-left:-33px}
+p.ref3{padding-left:33px}
+#pt{color:#BFC0B6;font-size:.8em;margin-top:55px;text-align:center}
+ul,ol{font-family:Verdana,Arial,Helvetica,sans-serif;font-size:.8em}
+ol{counter-reset:number;list-style-type:none}
+ol li{counter-increment:number}
+ol li:before{content:"(" counters(number,".") ") "}
+li{margin:10px 0}
+pre{margin:20px 0 25px 35px;width:90%}
+.ack p{font-size:.8em}
+.ui-tooltip,.arrow:after{background:#FDDCC4;position:fixed}
+.ui-tooltip{-webkit-box-shadow:0 0 10px #D3D3D3;border-radius:10px;box-shadow:0 0 10px #D3D3D3;color:#777;font:bold 10px Arial, Sans-Serif;padding:6px 12px;width:350px}
+.arrow{bottom:-16px;height:16px;left:50%;margin-left:-35px;overflow:hidden;position:absolute;width:70px}
+.arrow.top{bottom:auto;top:-16px}
+.arrow.left{left:20%}
+.arrow:after{-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);-webkit-transform:rotate(45deg);box-shadow:6px 5px 9px -9px #000;content:"";height:25px;left:20px;position:absolute;top:-20px;tranform:rotate(45deg);width:25px}
+.arrow.top:after{bottom:-20px;top:auto}
+.label,.table-label{font-weight:700}
+thead,tfoot{border-bottom:1px solid #CDCEC8;border-top:2px solid #8D8F7E}
+tr:hover td,tr:hover th{color:#262622}
+#hidden,.hidden{display:none}
+.nav-p,.nav-menu a,h1,h2,h3,h4,h5,h6{color:#FF9302}
+.nav-menu a:active,.nav-menu a:hover{text-decoration:underline}
+article a:active,article a:hover{color:#d49002;text-decoration:underline}
+article a:link,article a:visited{color:#A35200;text-decoration:none}
+.add:active,.add:hover{color:#848974;text-decoration:underline}
+.add:link,.add:visited{color:#848974;text-decoration:none}
+#mData{-webkit-box-shadow:0 0 10px #D3D3D3;background-color:#FCFDFE;box-shadow:0 0 10px #D3D3D3;right:100px;min-height:300px;overflow:auto;padding:3px 15px 15px;position:fixed;width:300px;z-index:999}

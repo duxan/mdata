@@ -1,0 +1,10 @@
+﻿@import "jpub-preview.css";
+
+div.body,
+div.back
+{ font-family: monospace;
+  font-size: 12pt;
+  line-height: 140% }
+   
+/* since the body will be in monospace, we make tt sans-serif instead */
+tt { font-family: sans-serif }
